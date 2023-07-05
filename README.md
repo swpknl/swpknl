@@ -1,6 +1,16 @@
 <!-- Heading -->
 <h3 align="center"><img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 30px> Hi there! I'm Swapnil Ramteke</h3>
 
+<!-- Profile Views -->
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=swpknl&label=Profile%20views&color=0e75b6&style=flat" alt="isrealodejobi" />
+</p>
+
+<p align="center">
+  <a href="https://swpknl.com">Website</a> •
+  <a href="https://twitter.com/swpknl">Twitter</a>
+</p>
+
 <!--
 **swpknl/swpknl** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
