@@ -7,4 +7,4 @@ I have experience in developing low latency desktop applications, websites, plug
 - I’m currently learning Golang, reimplementing SQLite and Docker
 - I have reimplemented Redis in C#. Link [here](https://github.com/swpknl/redis-reimplementation)
 - I love reading [engineering books](https://swpknl.com/blog) and system designs which I blog about in my website [swpknl](https://swpknl.com)
-- Links:  <a href="https://twitter.com/swpknl" target="_blank"><img align="center" alt="Swapnil Ramteke | Twitter" width="21px" src="https://raw.githubusercontent.com/anuraghazra/anuraghazra/master/assets/twitter.svg" /></a>    <a href="https://swpknl.com" target="_blank"><img align="center" alt="Swapnil Ramteke" width="20px" src="https://raw.githubusercontent.com/anuraghazra/anuraghazra/master/assets/codesandbox.svg" /></a>
+- Links:  <a href="https://twitter.com/swpknl" target="_blank">Twitter</a>    <a href="https://swpknl.com" target="_blank">swpknl</a>
