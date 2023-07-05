@@ -21,9 +21,15 @@ I'm a passionate polyglot full stack developer from India 🇮🇳
 
 **About me**
 
-- ❤️ I love writing C#, and building fun experiments using other languages
+- ❤️ I love writing in C#, and building fun experiments using other languages
 
-- 💬 Ask me about anything [here](https://github.com/anuraghazra/anuraghazra/issues)
+- 🌱 I’m currently learning Golang, reimplementing SQLite and Docker
+
+- 💬 Ask me about anything [here](https://github.com/swpknl/swpknl/issues)
+
+- 👯 I’m looking to collaborate on any project related to C#
+
+- ⚡ Fun fact: I have strong expertise in developing for desktop applications using WPF, Plugins for Excel and Outlook as well as developing web apps using ASP.NET MVC and Angular
 
 <code><img height="20" alt="csharp" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/csharp/csharp.png"></code>
 <code><img height="20" alt="java" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png"></code>
