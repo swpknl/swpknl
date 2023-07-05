@@ -1,30 +1,12 @@
-<!-- Heading -->
-<h3 align="center"><img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 30px> Hi there! I'm Swapnil Ramteke</h3>
+I'm a passionate polyglot full stack developer with complete experience in developing scalable applications in the investment banking domain across low latency algo trading and real time risk monitoring applications,
+large scale data processing applications and quantitative finance. 
+I have experience in developing apps across C#, NodeJS, Java, Go, WPF and Angular.
 
-<!-- Profile Views -->
-
-<p align="left"> 
-  <img src="https://komarev.com/ghpvc/?username=swpknl&label=Profile%20views&color=0e75b6&style=flat" alt="isrealodejobi" />
-</p>
-
-
-<br />
-
-I'm a passionate polyglot full stack developer from India 🇮🇳
-
-##  About Me
-
-- ❤️ I love writing in C#, and building fun experiments using other languages
-
-- 🌱 I’m currently learning Golang, reimplementing SQLite and Docker
-
-- 💬 Ask me about anything [here](https://github.com/swpknl/swpknl/issues)
-
-- 👯 I’m looking to collaborate on any project related to C#
-
-- ⚡ Fun fact: I have strong expertise in developing for desktop applications using WPF, Plugins for Excel and Outlook as well as developing web apps using ASP.NET MVC and Angular
-
-- 📫 Links:  <a href="https://twitter.com/swpknl" target="_blank"><img align="center" alt="Swapnil Ramteke | Twitter" width="21px" src="https://raw.githubusercontent.com/anuraghazra/anuraghazra/master/assets/twitter.svg" /></a>    <a href="https://swpknl.com" target="_blank"><img align="center" alt="Swapnil Ramteke" width="20px" src="https://raw.githubusercontent.com/anuraghazra/anuraghazra/master/assets/codesandbox.svg" /></a>
+- I have deep expertise in C#, and love building fun experiments using other languages
+- I’m currently learning Golang, reimplementing SQLite and Docker
+- Ask me about anything [here](https://github.com/swpknl/swpknl/issues)
+- I’m looking to collaborate on any project related to C#
+- Links:  <a href="https://twitter.com/swpknl" target="_blank"><img align="center" alt="Swapnil Ramteke | Twitter" width="21px" src="https://raw.githubusercontent.com/anuraghazra/anuraghazra/master/assets/twitter.svg" /></a>    <a href="https://swpknl.com" target="_blank"><img align="center" alt="Swapnil Ramteke" width="20px" src="https://raw.githubusercontent.com/anuraghazra/anuraghazra/master/assets/codesandbox.svg" /></a>
 
 <br />
 <p align="left">
@@ -40,20 +22,4 @@ I'm a passionate polyglot full stack developer from India 🇮🇳
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=swpknl&langs_count=10&show_icons=true&locale=en&layout=compact&theme=light" alt="Swapnil's language" />
 </div>
 
-
 <br />
-
-<!--
-**swpknl/swpknl** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
