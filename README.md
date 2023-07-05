@@ -1,10 +1,10 @@
 I'm a passionate polyglot full stack developer with complete experience in developing scalable applications in the investment banking domain across low latency algo trading and real time risk monitoring applications,
-large scale data processing applications and quantitative finance. 
-I have experience in developing apps across C#, NodeJS, Java, Go, WPF and Angular.
-
+large scale data processing applications and quantitative finance. <br />
+I have experience in developing apps across C#, NodeJS, Java, Go, WPF and Angular, and my experience includes freelacing for various companies, which include developing the billing system for a client used by Taco Bell.
+<br />
 - I have deep expertise in C#, and love building fun experiments using other languages
 - I’m currently learning Golang, reimplementing SQLite and Docker
-- Ask me about anything [here](https://github.com/swpknl/swpknl/issues)
+- I have reimplemented Redis in C#. Link [here](https://github.com/swpknl/redis-reimplementation)
 - I’m looking to collaborate on any project related to C#
 - Links:  <a href="https://twitter.com/swpknl" target="_blank"><img align="center" alt="Swapnil Ramteke | Twitter" width="21px" src="https://raw.githubusercontent.com/anuraghazra/anuraghazra/master/assets/twitter.svg" /></a>    <a href="https://swpknl.com" target="_blank"><img align="center" alt="Swapnil Ramteke" width="20px" src="https://raw.githubusercontent.com/anuraghazra/anuraghazra/master/assets/codesandbox.svg" /></a>
 
