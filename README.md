@@ -5,6 +5,6 @@ I have experience in developing desktop applications, websites, plugins, backend
 - I have deep expertise in C#, and love building fun experiments using other languages
 - My experience includes freelacing for various companies, which includes developing the billing system used by Taco Bell across various locations
 - I’m currently learning Golang, reimplementing SQLite and Docker
-- I have reimplemented Redis in C#. Link [here](https://github.com/swpknl/redis-reimplementation)
+- I have [reimplemented Redis](https://github.com/swpknl/redis-reimplementation) in C#.
 - I love reading [engineering books](https://swpknl.com/blog) and system designs which I blog about in my website [swpknl](https://swpknl.com)
 - Links:  <a href="https://twitter.com/swpknl" target="_blank">[twitter]</a>    <a href="https://swpknl.com" target="_blank">[swpknl]</a>
