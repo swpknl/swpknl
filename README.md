@@ -24,7 +24,7 @@ I'm a passionate polyglot full stack developer from India 🇮🇳
 
 - ⚡ Fun fact: I have strong expertise in developing for desktop applications using WPF, Plugins for Excel and Outlook as well as developing web apps using ASP.NET MVC and Angular
 
-- 📫 How to reach me:  <a href="https://twitter.com/swpknl"><img align="center" alt="Swapnil Ramteke | Twitter" width="21px" src="https://raw.githubusercontent.com/anuraghazra/anuraghazra/master/assets/twitter.svg" /></a>    <a href="https://swpknl.com">[re]</a>
+- 📫 How to reach me:  <a href="https://twitter.com/swpknl"><img align="center" alt="Swapnil Ramteke | Twitter" width="21px" src="https://raw.githubusercontent.com/anuraghazra/anuraghazra/master/assets/twitter.svg" /></a>    <a href="https://swpknl.com"><img align="right" alt="Anurag Hazra | CodeSandbox" width="20px" src="https://raw.githubusercontent.com/anuraghazra/anuraghazra/master/assets/codesandbox.svg" /></a>
 <br />
 <div>
   <p align="left">
