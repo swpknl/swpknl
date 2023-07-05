@@ -6,7 +6,7 @@
 <p align="left"> 
   <img src="https://komarev.com/ghpvc/?username=swpknl&label=Profile%20views&color=0e75b6&style=flat" alt="isrealodejobi" />
 </p>
-<p align="center">
+<p align="left">
 <a href="https://twitter.com/swpknl">
   <img align="center" alt="Swapnil Ramteke | Twitter" width="21px" src="https://raw.githubusercontent.com/anuraghazra/anuraghazra/master/assets/twitter.svg" />
 </a>
@@ -41,8 +41,10 @@ I'm a passionate polyglot full stack developer from India 🇮🇳
 <br />
 <br />
 
-| <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=swpknl&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Swapnil's github stats" /></a> | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=swpknl&layout=compact&theme=buefy&hide_border=true" /></a> |
-| ------------- | ------------- |
+<div>
+   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=lauragift21" alt="Gift's LangStat" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=lauragift21&langs_count=10&show_icons=true&locale=en&layout=compact&theme=light" alt="Gift's language" height="192px"  width="500px"/>
+</div>
 
 <br />
 <br />
