@@ -1,6 +1,6 @@
 I'm a passionate polyglot full stack developer with complete experience in developing scalable applications in the investment banking domain across low latency algo trading and real time risk monitoring applications,
 large scale data processing applications and quantitative finance. <br />
-I have experience in developing apps across C#, NodeJS, Java, Go, WPF and Angular.
+I have experience in developing apps across C#, NodeJS, Java, Go and Angular.
 <br />
 - I have deep expertise in C#, and love building fun experiments using other languages
 - My experience includes freelacing for various companies, which includes developing the billing system used by Taco Bell across various locations
