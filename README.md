@@ -6,10 +6,10 @@
 <p align="left"> 
   <img src="https://komarev.com/ghpvc/?username=swpknl&label=Profile%20views&color=0e75b6&style=flat" alt="isrealodejobi" />
  <a href="https://twitter.com/swpknl">
-  <img align="right" alt="Swapnil Ramteke | Twitter" width="21px" src="https://raw.githubusercontent.com/anuraghazra/anuraghazra/master/assets/twitter.svg" />
+  <img align="center" alt="Swapnil Ramteke | Twitter" width="21px" src="https://raw.githubusercontent.com/anuraghazra/anuraghazra/master/assets/twitter.svg" />
 </a>
 <a href="https://swpknl.com">
-  <img align="right" alt="Swapnil Ramteke" width="20px" src="https://raw.githubusercontent.com/anuraghazra/anuraghazra/master/assets/codesandbox.svg" />
+  <img align="center" alt="Swapnil Ramteke" width="20px" src="https://raw.githubusercontent.com/anuraghazra/anuraghazra/master/assets/codesandbox.svg" />
 </a>
 </p>
 
