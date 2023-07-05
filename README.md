@@ -7,8 +7,8 @@
 </p>
 
 <p align="center">
-  <a href="https://swpknl.com">Website</a> •
-  <a href="https://twitter.com/swpknl">Twitter</a>
+  <a href="https://swpknl.com" _target="blank">Website</a> •
+  <a href="https://twitter.com/swpknl" _target="blank">Twitter</a>
 </p>
 
 <!--
