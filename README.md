@@ -19,7 +19,7 @@
 
 I'm a passionate polyglot full stack developer from India 🇮🇳
 
-**About me**
+##  About Me
 
 - ❤️ I love writing in C#, and building fun experiments using other languages
 
@@ -37,8 +37,6 @@ I'm a passionate polyglot full stack developer from India 🇮🇳
 <img height="20" alt="typescript" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png">  
 </div>
    
-
-<br />
 <br />
 
 ##  My GitHub Stats <img src = "https://i.pinimg.com/originals/65/c4/f4/65c4f452571be1261e9c623f7da488ac.gif" width = 35px> 
