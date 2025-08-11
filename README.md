@@ -5,6 +5,6 @@ I have experience in developing desktop applications, websites, plugins, backend
 
 - I have deep expertise in C#, and love implementing systems using other languages
 - My experience includes freelancing for various companies, which includes developing the billing system used by leading retailers in India including Taco Bell and McDonalds across various locations
-- I’m currently learning Golang, reimplementing SQLite and Docker
+- I’m currently learning Golang, reimplementing SQLite and an interpreter
 - I have [reimplemented Redis](https://github.com/swpknl/redis-reimplementation) in C#.
 - I love reading [engineering books](https://swpknl.com/bookshelf) and distributed systems which I [blog](https://swpknl.com/blog) about in my website [swpknl](https://swpknl.com)
